@@ -104,8 +104,8 @@ body {
 
 /* BUTTONS */
 .hero-buttons button {
-  background: #000000 ;
-  color: #d6befa;
+  background: #d6befa ;
+  color: #00000;
   border: none;
   padding: 10px 16px;
   cursor: pointer;
