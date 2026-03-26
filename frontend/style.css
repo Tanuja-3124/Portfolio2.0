@@ -16,7 +16,7 @@ body.dark {
 body.light {
   --bg: #00ffff;
   --text: #000000 ;
-  --card: #00ffff;
+  --card: #d10000;
   --accent: #eb5325;
 }
 
